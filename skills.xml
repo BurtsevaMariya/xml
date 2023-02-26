@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <theory>basics_of_testing</theory>
+  <testing_tools>
+    <web_applications>Chrome DevTools</web_applications>
+    <api>Postman</api>
+    <mobile_applications>Charles</mobile_applications>
+  </testing_tools>
+  <terminal>Git Bash</terminal>
